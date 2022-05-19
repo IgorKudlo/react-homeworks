@@ -1,7 +1,19 @@
+.wrapper {
+    display: flex;
+}
+
 .someClass {
 
 }
 
 .error {
     border: 1px solid red;
+}
+
+.totalUser {
+    margin-left: 10px;
+}
+
+.errorMessage {
+    color: red;
 }
